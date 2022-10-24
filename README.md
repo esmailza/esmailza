@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  👋
 
 <!--
 **esmailza/esmailza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ### hey there 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/esmailzadeh.mina/?hl=en">
+  <img align="left" alt="MinaEsmailZadeh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discord.gg/minaes#3557">
+  <img align="left" alt="Mina Kambar's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://twitter.com/MinaNojoo">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com//in/mina-esmail-zadeh-nojoo-kambar-a92667122/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -60,7 +60,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   11 hrs 33 mins  ████████████████████▒░░░░   81.19 %
+Python       11 hrs 33 mins  ████████████████████▒░░░░   81.19 %
 HTML         1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
 JavaScript   53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
 JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
