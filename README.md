@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi  👋
 
 
-**I am Mina Esmail Zadeh, a Ph.D. candidate and a research assistant in the department of Computer Science at UNLV. Here are the research areas I like:**
+**I am Mina Esmail Zadeh, a Ph.D. candidate and a research assistant in the department of Computer Science at UNLV. Here are what I like to learn more about:**
 -  I was working in a software development company for five years in Android Applications, website designing, and java backend server teams. So anything related to software cheers me up. 🌱
 - For four years, I have been learning more about Machine Learning, Deep learning methods for different applications. :innocent:
 - I love Natural Language processing. The idea that we can develop models that help computers understand what I say is fantastic. I have experience working on text processing techniques specifaccly for medical texts. 
