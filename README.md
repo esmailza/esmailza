@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 - I love Natural Language processing. The idea that we can develop models that help computers understand what I say is fantastic. I have experience working on text processing techniques specifaccly for medical texts. 
 
 
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   ## Where to find me:
+<br>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
   <a href="https://www.instagram.com/esmailzadeh.mina/?hl=en">
   <img align="left" alt="MinaEsmailZadeh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
