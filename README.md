@@ -16,7 +16,19 @@ Here are some ideas to get you started:
 -->
 
 ### Hi  👋
-<a href="https://www.instagram.com/esmailzadeh.mina/?hl=en">
+
+
+**I am Mina Esmail Zadeh, a Ph.D. candidate and a research assistant in the department of Computer Science at UNLV. Here are the research areas I like:**
+-  I was working in a software development company for five years in Android Applications, website designing, and java backend server teams. So anything related to software cheers me up. 🌱
+- For four years, I have been learning more about Machine Learning, Deep learning methods for different applications. :innocent:
+- I love Natural Language processing. The idea that we can develop models that help computers understand what I say is fantastic. I have experience working on text processing techniques specifaccly for medical texts. 
+
+
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  ## Where to find me:
+  <a href="https://www.instagram.com/esmailzadeh.mina/?hl=en">
   <img align="left" alt="MinaEsmailZadeh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/minaes#3557">
@@ -32,17 +44,6 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
-
-**I am Mina Esmail Zadeh, a Ph.D. candidate and a research assistant in the department of Computer Science at UNLV. Here are the research areas I like:**
--  worked in a software development company for five years in Android Applications, website designing, and java backend server teams. So anything related to software cheers me up. 🌱
-- For four years, I have been learning more about Machine Learning, Deep learning methods for different applications. :innocent:
-- I like Natural Language processing. The idea that we can develop models that help computers understand what I say is fantastic. I have experience working on text processing techniques specifaccly for medical texts. 
-
-
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
 
 
 **languages and tools I can code**  
@@ -66,7 +67,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 
 
 
