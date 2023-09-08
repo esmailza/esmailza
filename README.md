@@ -25,6 +25,13 @@ Here are some ideas to get you started:
 
 
   ## Where to find me:
+<br>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+<a href="https://discord.gg/minaes#3557">
+  <img align="left" alt="Mina Kambar's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
