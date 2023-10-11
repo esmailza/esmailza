@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 
 
 **I am Mina Esmail Zadeh, a Ph.D. candidate and a research assistant in the department of Computer Science at UNLV. Here are what I like to learn more about:**
--  I was working in a software development company for five years in Android Applications, website designing, and java backend server teams. So anything related to software cheers me up. 🌱
-- For four years, I have been learning more about Machine Learning, Deep learning methods for different applications. :innocent:
-- I love Natural Language processing. The idea that we can develop models that help computers understand what I say is fantastic. I have experience working on text processing techniques specifaccly for medical texts. 
 
+-I have a three-year background in software development, where I contributed to Android Applications, website design, and Java backend server teams. My passion for software-related work remains unwavering. 🌱
+
+- Over the past four years, I've delved deep into the world of Machine Learning and Deep Learning, exploring their applications across diverse domains. 😇
+
+- Natural Language Processing holds a special place in my heart. The concept of enabling computers to comprehend human language fascinates me. I've honed my skills in text processing, particularly in the context of medical texts. Currently, I am a research graduate assistant at UNLV, dedicated to advancing the field by working on Large Language Models (LLMs) for medical corpora.
 
   ## Where to find me:
 <br>
