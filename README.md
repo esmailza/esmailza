@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **I am Mina Esmail Zadeh, a Ph.D. candidate and a research assistant in the department of Computer Science at UNLV. Here are what I like to learn more about:**
 
--I have a three-year background in software development, where I contributed to Android Applications, website design, and Java backend server teams. My passion for software-related work remains unwavering. 🌱
+- I have a three-year background in software development, where I contributed to Android Applications, website design, and Java backend server teams. My passion for software-related work remains unwavering. 🌱
 
 - Over the past four years, I've delved deep into the world of Machine Learning and Deep Learning, exploring their applications across diverse domains. 😇
 
