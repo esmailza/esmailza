@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi  👋
 
 
-**I am Mina Esmail Zadeh, a Ph.D. candidate and a research assistant in the department of Computer Science at UNLV. Here are what I like to learn more about:**
+**I am Mina Kambar, a Ph.D. candidate and a research assistant in the department of Computer Science at UNLV. Here are what I like to learn more about:**
 
 - I have a three-year background in software development, where I contributed to Android Applications, website design, and Java backend server teams. My passion for software-related work remains unwavering. 🌱
 
